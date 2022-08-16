@@ -1,1 +1,2 @@
 This is the "Some text" for Git modifying. 
+Test use commit message thru vscode
